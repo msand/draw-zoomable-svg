@@ -1,0 +1,20 @@
+{
+  "name": "draw-zoomable-svg",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-native-web": "^0.6.1",
+    "react-no-ssr": "^1.1.0",
+    "svgs": "^3.2.1",
+    "zoomable-svg": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-plugin-react-native-web": "^0.6.1"
+  }
+}
